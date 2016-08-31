@@ -28,5 +28,7 @@
 *.out
 *.app
 
-*.main
-*.test.sh
+main.cpp
+test.sh
+*.swp
+makefile
